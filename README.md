@@ -10,8 +10,7 @@
 - Installation
 - Usage
 - How it works
-- Acknowledgements
-- License
+
 
 ## Introduction
 Welcome to the Chat with PDFs project! This project utilizes the power of OpenAI's language model and Langchain to enable users to interactively chat and extract information from multiple PDF documents. The goal is to make it easier for users to get quick insights from various PDF files without the need to read each document manually.
@@ -70,18 +69,7 @@ The application follows these steps to provide responses to your questions:
 
 - Response Generation: The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.
 
-![Project Architecture](https://github.com/Sakalya100/Chatbot-using-Langchain/assets/70064084/ef84a6ae-63c1-41d7-8cf0-78c2c7e9447f)
 
 
-## Video Demo
-https://github.com/Sakalya100/Chatbot-using-Langchain/assets/70064084/26fc8e1d-33e1-4ed1-9e55-ea01e08d3726
 
-
-## Acknowledgements
-We would like to express our gratitude to the developers and maintainers of OpenAI and Langchain for providing the tools and technologies that made this project possible.
-
-## License
-This project is licensed under the MIT License.
-
-Thank you for using the Chat with PDFs project! If you have any questions or feedback, please don't hesitate to reach out to me [Sakalya](https://github.com/Sakalya100/). Happy document chatting!
 
